@@ -1,0 +1,4 @@
+name: xphp
+version: '1.0-SNAPSHOT'
+main: xphp.xphp.Xphp
+api-version: '1.20'

@@ -1,0 +1,4 @@
+name: xphp
+version: '${project.version}'
+main: xphp.xphp.Xphp
+api-version: '1.20'
